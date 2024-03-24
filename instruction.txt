@@ -1,3 +1,36 @@
+Layout-----------
+
+header 
+    nav
+main
+    aside
+    section
+footer
+
+Reusable Component
+    src/components/ui
+
+Individual Pages
+    src/pages/
+    
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------
+
+
+
+
+
 1. Library to route 
 npm install react-router-dom --save
 
