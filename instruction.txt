@@ -1,0 +1,22 @@
+1. Library to route 
+npm install react-router-dom --save
+
+
+
+2nd library 
+
+react bootstrap
+npm install react-bootstrap bootstrap
+
+2 library from npm.js website
+
+now steps to remember 
+1. import below to the index.js file or app.js 
+
+2. but better to import in index.js
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+3. MOST IMPORTANT rule is keep this import address above to your style file always
+
+import libraries first and then your custome codes
+
