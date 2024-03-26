@@ -13,43 +13,28 @@ Reusable Component
 Individual Pages
     src/pages/
     
-
-
-
-
-
-
-
-
-
-
-
-
 ------------------------------
-
-
-
-
 
 1. Library to route 
 npm install react-router-dom --save
 
 
 
-2nd library 
+2. library Bootstrap
 
-react bootstrap
+google it react-bootstrap
 npm install react-bootstrap bootstrap
 
-2 library from npm.js website
+the above two library comes from npm.js website
 
-now steps to remember 
-1. import below to the index.js file or app.js 
+**************now steps to remember ******************************
+1. import below bootstrap library to the index.js file or app.js 
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 2. but better to import in index.js
-import 'bootstrap/dist/css/bootstrap.min.css';
 
 3. MOST IMPORTANT rule is keep this import address above to your style file always
 
 import libraries first and then your custome codes
 
+***********************Steps to Upload Netlyfy
