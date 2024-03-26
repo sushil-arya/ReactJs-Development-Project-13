@@ -37,4 +37,26 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 import libraries first and then your custome codes
 
-***********************Steps to Upload Netlyfy
+***********************Steps to deploy Netlify*******************
+
+https://project13-layout.netlify.app/
+
+1. Signup for first user after authunticate with github repository
+
+2. Login success dashboard Add New Site---> import and existing project ----> with your repository center (Like github)
+
+
+3. but before deployment please check the code once, if you imported some thing and not been used in the code that might get some error.
+
+So follow the line number and files netlify will let you know the un used code eficiently.
+
+4. to avoid the error page not found pop up please introduce netlify.toml file in the root level like package.json just paste this below link
+
+[[redirects]]
+  from = "/*"
+  to = "/"
+  status = 200
+
+All done... your project will be online in a fraction of seconds
+
+Thank you.
