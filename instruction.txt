@@ -45,6 +45,8 @@ https://project13-layout.netlify.app/
 
 2. Login success dashboard Add New Site---> import and existing project ----> with your repository center (Like github)
 
+  apply your branch and nothing to change good to go next
+
 
 3. but before deployment please check the code once, if you imported some thing and not been used in the code that might get some error.
 
